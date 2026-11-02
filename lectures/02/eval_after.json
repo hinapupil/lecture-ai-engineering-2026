@@ -1,0 +1,201 @@
+{
+  "summary": {
+    "label": "after",
+    "n": 21,
+    "format_rate": 1.0,
+    "content_rate": 0.7619047619047619,
+    "both_rate": 0.7619047619047619,
+    "seconds": 42.1
+  },
+  "rows": [
+    {
+      "question": "どのくらいの頻度で出していますか",
+      "raw": "{\"answer\": \"投稿は6日ごとに行い、最初の7本で各曜日が1回ずつになります。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "最初の7本で曜日はどうなりますか",
+      "raw": "{\"answer\": \"投稿は6日ごとに行い、最初の7本で各曜日が1回ずつになります。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "何日おきに記事を公開しますか",
+      "raw": "{\"answer\": \"投稿は6日ごとに行い、最初の7本で各曜日が1回ずつになります。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "数字の計測はどこで行いますか",
+      "raw": "{\"answer\": \"記事の数字は、公開から約72時間後に、noteのダッシュボードの期間指定で記事ごとに取ります。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "計測のタイミングと取得場所を教えてください",
+      "raw": "{\"answer\": \"記事の数字は、公開から約72時間後に、noteのダッシュボードの期間指定で記事ごとに取ります。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "記事ごとの数字は何を使って取りますか",
+      "raw": "{\"answer\": \"記事の数字は、公開から約72時間後に、noteのダッシュボードの期間指定で記事ごとに取ります。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "どんなタグを付けますか",
+      "raw": "{\"answer\": \"タグは #エッセイ を残し、1日の投稿数が多すぎるタグは避けて、本文に出てくる言葉から選びます。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "投稿数が多いタグは付けますか",
+      "raw": "{\"answer\": \"タグは #エッセイ を残し、1日の投稿数が多すぎるタグは避けて、本文に出てくる言葉から選びます。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "#エッセイ は付けますか",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "直しを入れる順序はありますか",
+      "raw": "{\"answer\": \"公開後に直すときは、Ulysses、note、リポジトリの順に直します。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "noteの記事を直す前に何をしますか",
+      "raw": "{\"answer\": \"公開後に直すときは、Ulysses、note、リポジトリの順に直します。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "リポジトリとUlyssesはどちらを先に直しますか",
+      "raw": "{\"answer\": \"公開前に、公開しない語が本文に残っていないかをgrepで確かめ、件数を本人に伝えます。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "出す前に必ず確かめることはありますか",
+      "raw": "{\"answer\": \"公開前に、公開しない語が本文に残っていないかをgrepで確かめ、件数を本人に伝えます。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "友人の名前などが残っていないかはどう確かめますか",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "公開できない語が本文に入っていないかをどう確認しますか",
+      "raw": "{\"answer\": \"公開前に、公開しない語が本文に残っていないかをgrepで確かめ、件数を本人に伝えます。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": false
+    },
+    {
+      "question": "投稿時刻は何時ですか",
+      "raw": "{\"answer\": \"投稿は6日ごとに行い、最初の7本で各曜日が1回ずつになります。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    },
+    {
+      "question": "フォロワーの数はどう記録しますか",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": true
+    },
+    {
+      "question": "1本あたりの目標の文字数は？",
+      "raw": "{\"answer\": \"投稿は6日ごとに行い、最初の7本で各曜日が1回ずつになります。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    },
+    {
+      "question": "友人の感想はどこに記録しますか",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": true
+    },
+    {
+      "question": "Xでの告知は公開の何分後ですか",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": true
+    },
+    {
+      "question": "共通フッターには何を書きますか",
+      "raw": "{\"answer\": \"この FAQ には記載がありません。確認が必要です。\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": true,
+      "both_ok": true,
+      "gold_needs_review": true
+    }
+  ]
+}
