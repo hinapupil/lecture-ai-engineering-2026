@@ -1,0 +1,201 @@
+{
+  "summary": {
+    "label": "before",
+    "n": 21,
+    "format_rate": 0.47619047619047616,
+    "content_rate": 0.0,
+    "both_rate": 0.0,
+    "seconds": 20.5
+  },
+  "rows": [
+    {
+      "question": "どのくらいの頻度で出していますか",
+      "raw": "{\"answer\": \"6 日\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "最初の7本で曜日はどうなりますか",
+      "raw": "{\"answer\": \"1回ずつになります\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "何日おきに記事を公開しますか",
+      "raw": "{\"answer\": \"6日\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "数字の計測はどこで行いますか",
+      "raw": "{\"answer\": \"note のダッシュボードの期間指定で\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "計測のタイミングと取得場所を教えてください",
+      "raw": "{\"answer\": \"計測は公開後約72時間後にnoteのダッシュボードで取得し、取得場所はnoteのダッシュボードの期間指定で記述されます。\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "記事ごとの数字は何を使って取りますか",
+      "raw": "{\"answer\": \"note のダッシュボードの期間指定で\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "どんなタグを付けますか",
+      "raw": "{\"answer\": \"#エッセイ\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "投稿数が多いタグは付けますか",
+      "raw": "{\"answer\": \"否\", \"needs_review\": \"false\"}",
+      "format_ok": false,
+      "format_reason": "wrong_type",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "#エッセイ は付けますか",
+      "raw": "{\"answer\": \"否\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "直しを入れる順序はありますか",
+      "raw": "{\"answer\": \"Ulysses, note, リポジトリ\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "noteの記事を直す前に何をしますか",
+      "raw": "{\"answer\": \"Ulysses\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "リポジトリとUlyssesはどちらを先に直しますか",
+      "raw": "{\"answer\": \"Ulysses\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "出す前に必ず確かめることはありますか",
+      "raw": "{\"answer\": \"確認が必要\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "友人の名前などが残っていないかはどう確かめますか",
+      "raw": "{\"answer\": \"確認が必要\", \"needs_review\": true}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "公開できない語が本文に入っていないかをどう確認しますか",
+      "raw": "{\"answer\": \"grep\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": false
+    },
+    {
+      "question": "投稿時刻は何時ですか",
+      "raw": "{\"answer\": \"投稿時刻は記載されていません\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    },
+    {
+      "question": "フォロワーの数はどう記録しますか",
+      "raw": "{\"answer\": \"確認が必要\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    },
+    {
+      "question": "1本あたりの目標の文字数は？",
+      "raw": "{\"answer\": \"100\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    },
+    {
+      "question": "友人の感想はどこに記録しますか",
+      "raw": "{\"answer\": \"投稿は6日ごとに行い、最初の7本で各曜日が1回ずつになります。\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    },
+    {
+      "question": "Xでの告知は公開の何分後ですか",
+      "raw": "{\"answer\": \"12\", \"needs_review\": false}",
+      "format_ok": true,
+      "format_reason": "",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    },
+    {
+      "question": "共通フッターには何を書きますか",
+      "raw": "{\"answer\": \"投稿日付、投稿数、タグ、公開日\"}",
+      "format_ok": false,
+      "format_reason": "missing_key",
+      "content_ok": false,
+      "both_ok": false,
+      "gold_needs_review": true
+    }
+  ]
+}
